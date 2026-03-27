@@ -16,7 +16,7 @@ I am currently building my skills with these technologies:
 - **Tools:** Git, VS Code, Linux
 
 ### 📫 Connect with me:
-LinkedIn - https://www.linkedin.com/in/vedant-khandelwal-4327b7368?utm_source=share_via&utm_content=profile&utm_medium=member_android |
+'''LinkedIn - https://www.linkedin.com/in/vedant-khandelwal-4327b7368?utm_source=share_via&utm_content=profile&utm_medium=member_android '''|
 Kaggle - https://www.kaggle.com/vedantkhandelwal01 |
 ResearchGate - https://www.researchgate.net/profile/Vedant-Khandelwal-7?ev=hdr_xprf
 Stackoverflow - https://stackoverflow.com/users/32518095/vedant-khandelwal?tab=profile
